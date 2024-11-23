@@ -45,7 +45,7 @@
         {
           "when": "editorHasSelection",
           "command": "grep.searchSelected",
-          "group": "navigation"
+          "group": "4_search"
         }
       ]
     },

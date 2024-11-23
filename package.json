@@ -2,7 +2,7 @@
   "name": "grep-search",
   "displayName": "Grep.app Code Search",
   "description": "Instantly search through 500,000+ GitHub repositories using grep.app directly from your editor",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "publisher": "SaminAmanat",
   "engines": {
     "vscode": "^1.95.0"

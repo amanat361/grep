@@ -1,14 +1,36 @@
 {
-  "name": "grep",
-  "displayName": "grep",
-  "description": "Embed Vercel's grep.app inside VSCode to quickly lookup Github repositories that match selected code in your editor.",
+  "name": "grep-search",
+  "displayName": "Grep.app Code Search",
+  "description": "Instantly search through 500M+ GitHub repositories using grep.app directly from your editor",
   "version": "0.0.1",
+  "publisher": "Samin Amanat",
   "engines": {
     "vscode": "^1.95.0"
   },
   "categories": [
-    "Other"
+    "Other",
+    "AI",
+    "Programming Languages",
+    "Education"
   ],
+  "keywords": [
+    "grep",
+    "search",
+    "github",
+    "code search",
+    "find code",
+    "vercel",
+    "repository search",
+    "code finder",
+    "repository finder",
+    "similar code",
+    "code examples"
+  ],
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amanat361/grep"
+  },
   "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {

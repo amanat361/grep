@@ -1,7 +1,7 @@
 # Grep.app Code Search for VS Code
 
 <p align="center">
-  <img src="/example.png" width="128" />
+  <img src="/example.png" width="512" />
 </p>
 
 Instantly search through 500M+ GitHub repositories using [grep.app](https://grep.app) directly from your VS Code editor. Find examples, check if code exists, or discover similar implementations with just a few clicks.
